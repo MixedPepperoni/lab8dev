@@ -6,3 +6,4 @@ MAKRE SURE TO SAVE SO THE FILE CAN COMMIT.
 // helps a ton// Dont forget the branchs to add. Seeing if changing main works.
 
 The git will need mroe work. THis is a work to add branches.
+THis git works for dice2 branch.
