@@ -5,5 +5,4 @@ git is a bit trcky to rembember.
 MAKRE SURE TO SAVE SO THE FILE CAN COMMIT.
 // helps a ton// Dont forget the branchs to add. Seeing if changing main works.
 
-The git will need mroe work. THis is a work to add branches. 
-THis was done in ui1 branch.
+The git will need mroe work. THis is a work to add branches.
